@@ -1,5 +1,4 @@
 # Linear-Regression
-
 This repository contains an implementation of Linear Regression, one of the most fundamental algorithms in supervised machine learning. The project demonstrates how to:
 
 Understand and prepare your dataset
