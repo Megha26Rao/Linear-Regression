@@ -1,5 +1,4 @@
 # Linear-Regression
-Linear Regression Project
 
 This repository contains an implementation of Linear Regression, one of the most fundamental algorithms in supervised machine learning. The project demonstrates how to:
 
@@ -13,6 +12,7 @@ Evaluate performance with metrics like MSE and R²
 
 Visualize the regression line and predictions
 
+
 📁 What's Included:
 
 📊 Sample dataset(s)
@@ -22,6 +22,7 @@ Visualize the regression line and predictions
 📈 Data visualization using matplotlib or seaborn
 
 ✅ Code comments and step-by-step explanations
+
 
 🚀 Perfect for:
 
